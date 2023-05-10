@@ -127,21 +127,18 @@ for i in range(0,9):
 ## Output:
 
 ### Original Image:
+![out1](https://github.com/Guru-Guna/Thresholding/assets/93427255/7b136fcd-e9f1-4395-8ab9-d7a0658f2f5f)
 
-![out1](https://user-images.githubusercontent.com/93427534/235313724-f55acab3-f242-49dc-9999-619be56d7b02.png)
 
 ### Global Thresholding:
 
-![out2](https://user-images.githubusercontent.com/93427534/235313731-c6c83910-fc14-47f7-878e-b77fe2a354bc.png)
-
+![out2](https://github.com/Guru-Guna/Thresholding/assets/93427255/e5ad0c70-ac0a-4fba-868d-678b035210cf)
 ### Adaptive Thresholding:
 
-![out3](https://user-images.githubusercontent.com/93427534/235313737-b5b4a29d-db56-4c29-9f31-314f283911ac.png)
-
+![out3](https://github.com/Guru-Guna/Thresholding/assets/93427255/bb5a066f-9ffb-46d6-be1c-ba7d32e2d5d0)
 ### Optimum Global Thesholding using Otsu's Method:
 
-![out4](https://user-images.githubusercontent.com/93427534/235313743-85a80722-3aaf-406c-9047-be558019cc3f.png)
-
+![out4](https://github.com/Guru-Guna/Thresholding/assets/93427255/2a2a8b9e-7d5c-4184-bb2c-daa28d3db519)
 ## Result
 
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
